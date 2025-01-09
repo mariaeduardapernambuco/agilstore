@@ -16,3 +16,6 @@ Antes de executar a aplicação, certifique-se de ter o **Python 3** instalado e
 1. **Clone o repositório** em sua máquina:
    ```bash
    git clone https://github.com/seu_usuario/agilstore.git
+
+## Contato
+Se tiver alguma dúvida, sinta-se à vontade para entrar em contato através do e-mail: eduardapernambuco@hotmail.com
